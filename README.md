@@ -1,11 +1,15 @@
 # Exp:1 To create a web Portfolio/CV using HTML & CSS
 ## AIM:
-
+To write html & css code to create web portfolio/cv.
 ## PROCEDURE:
 ### STEP 1:
+Create a html code for the portfolio.
 ### STEP 2:
+Make style for the portfolio using css.
 ### STEP 3:
+Link the css with html by link tag
 ### STEP 4:
+Verify the output by running the portfolio in any web browser. 
 
 ## PROGRAM:
 ```html
@@ -651,3 +655,4 @@ img{
 ![image](https://github.com/Karthikeyan21001828/MERN_EX01/assets/93427303/667121cf-4fd3-4419-bc57-c30fa442e9ee)
 
 ## RESULT:
+html & css code to create web portfolio/cv has been created and output has been verified.
