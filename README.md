@@ -10,8 +10,8 @@ Make style for the portfolio using css.
 Link the css with html by link tag
 ### STEP 4:
 Verify the output by running the portfolio in any web browser. 
-
 ## PROGRAM:
+### HTML:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -190,6 +190,7 @@ Verify the output by running the portfolio in any web browser.
     </body>
 </html>
 ```
+### CSS:
 ```css
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
